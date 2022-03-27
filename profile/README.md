@@ -1,5 +1,5 @@
 <div align="center">
-<img src="logo-dark.svg" width="150"/>
+<img src="https://github.com/iden3/.github/blob/main/profile/logo-dark.svg" width="150"/>
 </div>
 <br />
 <div align="center">
