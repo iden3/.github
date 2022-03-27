@@ -32,6 +32,6 @@ The aim of the iden3 protocol is to empower people and create a more inclusive a
 
 ---
 
-# <div align="center"><b>[Find out more with our docs.](https://docs.iden3.io)</b></div>
+# <div align="center"><b>[Find out more in our docs.](https://docs.iden3.io)</b></div>
 
 ---
