@@ -7,19 +7,16 @@
 [![Chat on Twitter][ico-twitter]][link-twitter]
 [![Chat on Telegram][ico-telegram]][link-telegram]
 [![Website][ico-website]][link-website]
-[![GitHub repo][ico-github]][link-github]
 
 </div>
 
 [ico-twitter]: https://img.shields.io/twitter/url?color=black&label=Iden3&logoColor=black&style=social&url=https%3A%2F%2Ftwitter.com%2Fidenthree
 [ico-telegram]: https://img.shields.io/badge/telegram-telegram-black
 [ico-website]: https://img.shields.io/website?up_color=black&up_message=iden3.io&url=https%3A%2F%2Fiden3.io
-[ico-github]: https://img.shields.io/github/last-commit/iden3?color=black
 
 [link-twitter]: https://twitter.com/identhree
 [link-telegram]: https://t.me/iden3io
 [link-website]: https://iden3.io
-[link-github]: https://github.com/iden3
 
 # Identity protocol 
 
